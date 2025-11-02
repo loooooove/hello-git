@@ -1,2 +1,1 @@
-hello from featuer branch
-hello from GitHub
+hello from feature branch
